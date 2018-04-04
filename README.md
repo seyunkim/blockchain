@@ -10,7 +10,7 @@ This is the source code for my post on [Building a Blockchain](https://medium.co
 2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
 
 ```
-$ pip install pipenv 
+$ pip install pipenv asf
 ```
 
 3. Create a _virtual environment_ and specify the Python version to use. 
