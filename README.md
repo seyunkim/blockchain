@@ -40,7 +40,7 @@ Another option for running this blockchain program is to use Docker.  Follow the
 ```
 $ docker build -t blockchain .
 ```
-
+sf
 3. Run the container
 
 ```
